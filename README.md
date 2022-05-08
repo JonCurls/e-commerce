@@ -33,7 +33,7 @@
 
 ## **Usage**
 
-- [Init video](./assets/mysql.mp4) and [Demo video](./assets/demo.mp4)
+- [Demo video](./assets/demo.zip)
 
 ## **License**
 
